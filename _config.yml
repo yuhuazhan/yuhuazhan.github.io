@@ -1,7 +1,7 @@
 # Where things are
 source:       .
 destination:  ./_site
-plugins:      ./_plugins
+plugins_dir:      
 layouts:      ./_layouts
 paginate:     8
 
@@ -39,7 +39,7 @@ timezone:      null
 
 
 #Site config
-title: 9leg
+title: zhan
 description: java,scala
 keywords: java,scala
 url: http://9leg.com
@@ -109,26 +109,30 @@ customLinks:
       url: http://javabynataraj.blogspot.in/
     message: About Java
 
+
+#plugins 
+gems: [jekyll-paginate,pygments.rb]
+
 #googleAnaly, your id link UA-12345678-X
 googleAnaly:
   config: false
-  id: UA-58146229-1
+  id: 
 
 #baidu tongji
 baiduTongji:
-  config: true
-  id: c12b560f0372d5995701449b9eac606c
+  config: false
+  id: 
 
 #comment config
 disqus:
   config: false
-  id: piznblog
+  id: 
 
 duoshuo:
-  config: true
-  id: 9leg
+  config: false
+  id: 
 
 #baidu share config
 baiduShare:
-  config: true
+  config: false
   
