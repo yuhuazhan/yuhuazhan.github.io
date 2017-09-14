@@ -42,7 +42,7 @@ timezone:      null
 title: zhan
 description: java,scala
 keywords: java,scala
-url: http://9leg.com
+url: https://yuhuazhan.github.io/
 feed: /atom.xml
 favicon: /images/shortcut.jpg
 
@@ -61,8 +61,8 @@ nav:
 
 #Author config
 author:
-    name: zhujiajun
-    email: zhujiajun.me@gmail.com
+    name: yuhuazhan
+    email: net73751@gmail.com
     imageLink: /images/header.jpg
     simpleIntro: I Have a Dream
     detailIntro:
