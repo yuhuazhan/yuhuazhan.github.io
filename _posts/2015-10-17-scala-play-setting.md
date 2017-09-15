@@ -3,6 +3,7 @@ layout: post
 title: 基于play-scala的sbt目录和ivy仓库设置
 date: 2015-10-17 20:16:15
 category: "scala"
+published : false
 ---
 
 花了一下午时间，总算全部搞定。时间主要都花费在下载jar包上，虽然开了VPN还是下载慢，没有VPN的话，真心要奔溃的。这期间有太多坑了，所以写这篇文章，

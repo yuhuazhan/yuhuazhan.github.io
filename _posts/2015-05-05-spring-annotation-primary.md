@@ -3,6 +3,7 @@ layout: post
 title: Spring注解@Primary
 date: 2015-05-05 16:05:39
 category: "spring"
+published : false
 ---
 
 假定，有如下两个类，OperaSinger and MetalSinger。

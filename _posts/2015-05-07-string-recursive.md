@@ -3,6 +3,7 @@ layout: post
 title: String中的无意识递归
 date: 2015-05-07 11:06:56
 category: "java"
+published : false
 ---
 
 我们知道在Java在所有类的父类是Object,容器自然也不例外。因此容器都有toString()方法，并且覆写了该方法，使容器生成的String结果能够表达容器自身，以及容器所有包含的对象。例如ArrayList的toString()方法，它会遍历ArrayList中包含的所有对象，调用每个对象的toString()方法。

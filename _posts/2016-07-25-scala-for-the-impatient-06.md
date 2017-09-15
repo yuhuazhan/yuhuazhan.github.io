@@ -3,6 +3,7 @@ layout: post
 title: 快学scala笔记——类
 date: 2016-07-25 14:08:22
 category: "scala"
+published : false
 ---
 
 - 类的方法默认是公有的

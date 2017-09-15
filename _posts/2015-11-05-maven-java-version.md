@@ -3,6 +3,7 @@ layout: post
 title: maven的java版本随jenv切换改变而改变
 date: 2015-11-05 21:20:35
 category: "maven"
+published : false
 ---
 
 在项目中使用的还是java1.7比较多,1.8平时业余项目用用,学习下,毕竟新版本始终会代替旧版本的.在mac上推荐使用jenv工具来管理多java版本,

@@ -3,6 +3,7 @@ layout: post
 title: 用maven骨架生成项目速度慢的问题
 date: 2015-02-01 15:15:40
 category: "maven"
+published : false
 ---
 
 最近从IntelliJ Idea 14的Community版本切换到Ultimate。

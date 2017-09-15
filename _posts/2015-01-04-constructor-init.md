@@ -3,6 +3,7 @@ layout: post
 title: Java构造器和枚举的初始化
 date: 2015-01-04 21:28:30
 category: "java"
+published : false
 ---
 
 最近读完了ThinkInJava的第5章初始化与清理，在这里做下简单的总结，以加深影响。

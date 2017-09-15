@@ -3,6 +3,7 @@ layout: post
 title:  mybatis--01基础概念
 date:   2017-01-27 22:23:11
 category: "mybatis"
+published : false
 ---
 
 mybatis框架一直在用，并没有系统的全面的深入了解，接下来就写几篇文章，梳理下并加上影响。

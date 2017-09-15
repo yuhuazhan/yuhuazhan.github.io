@@ -3,6 +3,7 @@ layout: post
 title: Java字符串转枚举类型
 date: 2015-01-09 22:34
 category: "java"
+published : false
 ---
 如下代码有个枚举类，怎样才能将字符串“arin”转成WhoisRIR.ARIN枚举类呢？
 

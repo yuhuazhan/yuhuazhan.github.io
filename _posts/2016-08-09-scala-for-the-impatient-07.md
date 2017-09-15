@@ -3,6 +3,7 @@ layout: post
 title: 快学scala笔记——对象
 date: 2016-08-09 16:45:22
 category: "scala"
+published : false
 ---
 
 - scala没有静态字段或静态方法,可以用object语法结构达到同样的目的

@@ -3,6 +3,7 @@ layout: post
 title: Maven引入本地jar包并生成jar包运行修改MANIFEST.MF文件
 date: 2015-06-29 16:23:56
 category: "maven"
+published : false
 ---
 
 由于项目需要发送短信的功能，确定了产品后，开始开发，发现第三方提供的jar没有maven坐标。于是就开启了一系列的坑爹之路，最后还是解决了，纪录下。

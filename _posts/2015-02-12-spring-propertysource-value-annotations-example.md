@@ -3,6 +3,7 @@ layout: post
 title: Spring的@PropertySource和@Value注解例子
 date: 2015-02-12 15:21:52
 category: "spring"
+published : false
 ---
 
 在这篇文章中，我们会利用Spring的**@PropertySource**和**@Value**两个注解从配置文件properties中读取值，以及如何从配置文件中的值转换为List对象。

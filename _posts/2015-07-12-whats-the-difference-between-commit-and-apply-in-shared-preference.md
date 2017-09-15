@@ -3,6 +3,7 @@ layout: post
 title: SharedPreference.Editor中commit和apply区别
 date: 2015-07-12 18:53:30
 category: "android"
+published : false
 ---
 
 学Android也有段时间了,至今还没写过文章,可能是我懒吧(其实就是懒- -),今天在练习项目的时候，被IDEA一个warning弄懵了,看下图:
