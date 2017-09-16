@@ -111,7 +111,7 @@ customLinks:
 
 
 #plugins 
-gems: [jekyll-paginate,pygments.rb]
+#gems: [jekyll-paginate,pygments.rb]
 
 #googleAnaly, your id link UA-12345678-X
 googleAnaly:
